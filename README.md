@@ -1,2 +1,2 @@
 # IaC-with-Terraform
-This video has the video materials for Terraform.
+This repo has the video materials for Terraform.
