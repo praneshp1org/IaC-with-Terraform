@@ -30,4 +30,11 @@ A workspace in Terraform is a separate working directory where a distinct state 
   ```sh
   terraform workspace new <workspace-name>
 
+- **Switching between workspaces**: 
+  ```sh
+  terraform workspace select <workspace-name>
 
+- **Destroying workspace**: 
+  ```sh
+  terraform workspace select <workspace-name>
+  terraform destroy
