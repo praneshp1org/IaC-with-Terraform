@@ -58,6 +58,7 @@ This repository includes the following files and directories corresponding to th
 - `02-Terraform-Modules/`: Files related to Part 2 (Terraform Modules)
 - `03-Terraform-Workspaces/`: Files related to Part 3 (Terraform Workspaces)
 - `04-S3-Bucket/`: Files related to Part 4 (Creating an S3 Bucket with Terraform)
+- `05-Static-Website/`: Files related to Part 5 (Hosting static website using AWS S3 and Terraform)
 - `README.md`: This README file
 
 
