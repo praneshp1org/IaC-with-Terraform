@@ -42,7 +42,13 @@ In this video, we cover:
 - Executing Terraform commands (`init`, `plan`, `apply`)
 - Verifying the S3 bucket creation
 
+### Part 5: Static Website hosting using S3 and Terraform
 
+In this video, we cover:
+- Writing the Terraform configuration for an S3 bucket
+- Enable static website hosting
+- Configure the network ACLs and provisioning
+- Verifying the S3 bucket creation and public access of static website
 
 ## Repository Contents
 
