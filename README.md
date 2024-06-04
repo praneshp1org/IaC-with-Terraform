@@ -50,6 +50,14 @@ In this video, we cover:
 - Configure the network ACLs and provisioning
 - Verifying the S3 bucket creation and public access of static website
 
+### Part 6: Terraform statefile
+
+In this video, we cover:
+- Structure of Terraform statefile
+- How the resources are tracked using statefile
+- Format and content of statefile
+
+
 ## Repository Contents
 
 This repository includes the following files and directories corresponding to the video series:
