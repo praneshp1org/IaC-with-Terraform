@@ -57,6 +57,15 @@ In this video, we cover:
 - How the resources are tracked using statefile
 - Format and content of statefile
 
+### Part 7: Remote backend with Amazon S3
+
+In this video, we cover:
+- Concept of remote backend
+- Need of remote backend
+- Configuring Amazon S3 as remote backend
+- Resource tracking using remote backend
+- Interpreting the remote statefile
+
 
 ## Repository Contents
 
@@ -68,6 +77,7 @@ This repository includes the following files and directories corresponding to th
 - `04-S3-Bucket/`: Files related to Part 4 (Creating an S3 Bucket with Terraform)
 - `05-Static-Website/`: Files related to Part 5 (Hosting static website using AWS S3 and Terraform)
 - `06-Terraform-Statefile`: Files related to Part 6(Resource tracking using terraform statefile)
+- `07-Remote-Backend`: Files related to Part 7(Terraform remote backend with Amazon S3s)
 - `README.md`: This README file
 
 
