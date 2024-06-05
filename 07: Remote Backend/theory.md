@@ -19,11 +19,13 @@ A **remote backend** is a way to store Terraform's state file in a remote, share
 - AWS CLI installed and configured with the necessary permissions.
 - An AWS account with permissions to create S3 buckets.
 
-## Step-by-Step Setup
 
-### 1. Create an S3 Bucket
+
+### Creating an S3 Bucket using AWS CLI
 
 Create an S3 bucket to store your Terraform state file. You can do this via the AWS Management Console or using the AWS CLI:
 
 ```sh
 aws s3api create-bucket --bucket my-terraform-state --region us-east-1
+
+
